@@ -5,8 +5,6 @@ Portfolio Preview
 Overview
 This is my personal portfolio website, showcasing my skills, projects, education, and contact information. It is built with HTML & CSS and is fully responsive.
 
-🔗 Live Demo: [https://yourusername.github.io/portfolio https://github.com/Tindah01/Hackathlon.git)
-
 ✨ Features
 ✅ Responsive Design – Works on mobile, tablet, and desktop.
 ✅ Modern UI – Clean and professional layout.
@@ -28,14 +26,6 @@ HTML5 (Structure)
 CSS3 (Styling)
 
 Git & GitHub (Version Control & Hosting)
-
-🚀 How to Run Locally
-Clone the repository:
-
-
-Copy
-git clone https://github.com/yourusername/portfolio.git
-Open index.html in a browser.
 
 📂 Project Structure
 Copy

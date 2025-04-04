@@ -1,52 +1,36 @@
-# Hackathlon
+# Kelvin Mutinda - Portfolio Website
 
-Portfolio Preview
+![Portfolio Screenshot](https://images.unsplash.com/photo-1555066931-4365d14bab8c)
 
-Overview
-This is my personal portfolio website, showcasing my skills, projects, education, and contact information. It is built with HTML & CSS and is fully responsive.
+A responsive personal portfolio website showcasing my skills, projects, and professional background as an Electrical Engineer with web development expertise.
 
-✨ Features
-✅ Responsive Design – Works on mobile, tablet, and desktop.
-✅ Modern UI – Clean and professional layout.
-✅ Sections:
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Sections](#sections)
+- [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
 
-About Me
+## Features
+- Responsive design for all devices
+- Clean, modern UI with smooth navigation
+- Five main sections: About, Education, Interests, Projects, Contact
+- Downloadable CV/resume
+- Contact form functionality
+- Social media links
 
-Education Background
+## Technologies Used
+- **Frontend**: HTML5, CSS3
+- **Design**: Custom CSS (style3.css)
+- **Hosting**: (Specify if applicable)
 
-Interests
+## Sections
+1. **About Me**: Professional introduction and skills showcase
+2. **Education**: Timeline of academic background
+3. **Interests**: Personal hobbies and passions
+4. **Projects**: Showcase of technical projects including:
+   - Smart Energy Meter with payment integration
+   - This portfolio website
+5. **Contact**: Contact form and social media links
 
-Projects Showcase
-
-Contact Form
-
-🛠 Technologies Used
-HTML5 (Structure)
-
-CSS3 (Styling)
-
-Git & GitHub (Version Control & Hosting)
-
-📂 Project Structure
-Copy
-portfolio/
-├── index.html          # Main HTML file
-├── style3.css          # Custom CSS styles
-├── DSC_0802.jpg        # Profile image
-├── Kelvin .M. Kisilu.CV.pdf  # Resume/CV
-└── README.md           # This file
-📜 License
-This project is licensed under the MIT License.
-
-📬 Contact Me
-Email: kelvinmutindah01@gmail.com
-
-LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/public-profile/settings)
-
-instagram: https://www.instagram.com/tindah01?utm_source=qr&igsh=MWFlN2h5djN0bWZnag==
-
-🙏 Thanks for Visiting!
-⭐ Star this repo if you like it! ⭐
-
-
-🚀 Happy Coding! 🚀
